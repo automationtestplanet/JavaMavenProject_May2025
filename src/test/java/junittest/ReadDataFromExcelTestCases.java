@@ -1,4 +1,4 @@
-package filestest;
+package junittest;
 
 import java.util.List;
 import java.util.Map;

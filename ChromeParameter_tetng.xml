@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<test name="Test">
+		<groups>
+			<run>
+				<include name="SanityTest" />
+			</run>
+		</groups>
+		<parameter name="BrowserName" value="CHROME" />
+		<parameter name="UserName" value="Chrome123" />
+		<parameter name="Passowrd" value="chrome321" />
+		<classes>
+			<class name="testngtest.TestNGTestCases" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

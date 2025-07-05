@@ -1,4 +1,4 @@
-package filestest;
+package junittest;
 
 import org.junit.Assert;
 import org.junit.Test;

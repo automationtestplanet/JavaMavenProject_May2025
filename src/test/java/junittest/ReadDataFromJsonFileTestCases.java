@@ -1,4 +1,4 @@
-package filestest;
+package junittest;
 
 import org.json.simple.JSONObject;
 import org.junit.Assert;
